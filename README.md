@@ -73,4 +73,4 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 yarn add --dev hardhat-deploy
 ```
 
-    -This will add the deploy task to HH and this is gon be the task to deploy our contracts so instead of scripts now we'll ve dedicated deploy folder for our various deployment scripts
+This will add the deploy task to HH and this is gon be the task to deploy our contracts so instead of scripts now we'll ve dedicated deploy folder for our various deployment scripts
